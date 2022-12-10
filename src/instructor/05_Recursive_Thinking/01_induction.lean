@@ -561,7 +561,6 @@ to prove holds for all natural numbers.
 
 def sum_property (n : ℕ) := 2 * sum_to n =  n * (succ n)
 
-
 /-
 The proposition
 -/
